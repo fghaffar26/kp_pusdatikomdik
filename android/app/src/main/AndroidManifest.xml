@@ -2,7 +2,7 @@
     package="com.example.radio_disdik">
    <application
         android:label="radio_disdik"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
