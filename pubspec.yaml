@@ -31,6 +31,7 @@ dependencies:
   imagebutton: ^0.0.6
   url_launcher: ^5.7.10
   flutter_native_splash: ^1.2.0
+  flutter_inappwebview: ^5.3.2
 
 dev_dependencies:
   flutter_test:
